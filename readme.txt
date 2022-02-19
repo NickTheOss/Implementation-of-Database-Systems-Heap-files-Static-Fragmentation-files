@@ -1,4 +1,4 @@
-Implementation of Database Systems Work 1
+Implementation of Database Systems
 
 The folder contains 3 source files (main.c, hp.c, ht.c), 3 header files
 (record_list.h, hp_ht.h, BF.h), 1 makefile file for compilation, 2 .a files (BF_32.a, BF_64.a) containing libraries for the use of BF functions ( 32-bit or 64 -bit accordingly), a test file containing records (let max number of records given = records15K.txt) and 2 output files (HEAP for heap files and HASH for static hash files).
