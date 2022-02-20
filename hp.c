@@ -15,7 +15,7 @@ int HP_CreateFile(char * filename,char attrType,char * attrName,int attrLength){
 	void * block;
 	int bytes_used = 0;
 
-	BF_Init();  //arxikopoisi vivliothikis
+	BF_Init(); 
 
 	if(BF_CreateFile(filename)){
 
